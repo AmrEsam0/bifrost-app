@@ -7,13 +7,13 @@ No cloud, no account, no size limit. Transfers survive Wi-Fi drops, sleep and ap
 
 ## Download
 
-| Platform | Download |
-|---|---|
-| macOS (Apple Silicon) | [Bifrost-mac.dmg](https://github.com/AmrEsam0/bifrost-app/releases/latest/download/Bifrost-mac.dmg) |
-| Windows 10 / 11 (x64) | [Bifrost-windows-setup.exe](https://github.com/AmrEsam0/bifrost-app/releases/latest/download/Bifrost-windows-setup.exe) |
-| Android | Coming to Google Play |
+**[Get the latest release →](https://github.com/AmrEsam0/bifrost-app/releases/latest)**
 
-Older versions and release notes: [Releases](https://github.com/AmrEsam0/bifrost-app/releases).
+| Platform | File on the release page |
+|---|---|
+| macOS (Apple Silicon) | `Bifrost_<version>_aarch64.dmg` |
+| Windows 10 / 11 (x64) | `Bifrost_<version>_x64-setup.exe` |
+| Android | Coming to Google Play |
 
 ### First launch
 
