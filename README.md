@@ -13,7 +13,7 @@ No cloud, no account, no size limit. Transfers survive Wi-Fi drops, sleep and ap
 |---|---|
 | macOS (Apple Silicon) | `Bifrost_<version>_aarch64.dmg` |
 | Windows 10 / 11 (x64) | `Bifrost_<version>_x64-setup.exe` |
-| Android | Coming to Google Play |
+| Android | [Get it on Google Play](https://play.google.com/store/apps/details?id=com.nullchecklabs.bifrost) |
 
 ### First launch
 
